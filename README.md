@@ -1,5 +1,7 @@
 # go_xstore
 
+An artbitrary store API.
+
 # Build
 
 ```shell
